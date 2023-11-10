@@ -12,6 +12,9 @@ function App() {
   return (
     <>
       <UnderConstruction />
+      {/* <div style={{ padding: 50, textAlign: "left" }}>
+        <Type />
+      </div> */}
     </>
   )
 }
