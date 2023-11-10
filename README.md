@@ -1,11 +1,13 @@
 # Portfolio Lucas Salvatori
 
 ## Tecnologies
-- React
-- TypeScript
-- Sass
-- Framer Motion 
-- Tsparticles
+- [React]()
+- [TypeScript]()
+- [Sass](https://sass-lang.com/)
+- [Framer Motion](https://www.framer.com/motion/) 
+- [Tsparticles](https://particles.js.org/)
+- [typewriter-effect](https://www.npmjs.com/package/typewriter-effect)
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
