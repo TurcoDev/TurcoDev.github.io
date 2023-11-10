@@ -2,7 +2,8 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 import '../styles/App.scss'
-import Type from './components/Type'
+import UnderConstruction from './components/UnderConstruction'
+// import Type from './components/Type'
 
 
 function App() {
@@ -10,9 +11,7 @@ function App() {
 
   return (
     <>
-      <div style={{ padding: 50, textAlign: "left" }}>
-        <Type />
-      </div>
+      <UnderConstruction />
     </>
   )
 }
